@@ -2,12 +2,17 @@
 
 <h2>👨‍💻 Technology Projects:</h2>
 
-- <b>Azure Honeypot and Hardening</b>
-  - DESCRIPTION(LINK)
+- <b>Azure / Cloud Cybersecurity Projects</b>
+  - [Created a live SOC / Honeynet in Azure!](https://github.com/Kincaid7/Azure-SOC)
 
 <h2> 🤳 Connect with me:</h2>
-<img align="left" alt="NathanKincaid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-https://www.linkedin.com/in/nkincaid/
+
+[<img align="left" alt="NathanKincaid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/nkincaid/
+
+
+
 
 <!--
 **Kincaid7/Kincaid7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
