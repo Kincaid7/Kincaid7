@@ -5,6 +5,9 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Created a live SOC / Honeynet in Azure!](https://github.com/Kincaid7/Azure-SOC)
 
+- <b>Department of Defense Cyber Sentinal Challenge</b>
+  - [Created a live SOC / Honeynet in Azure!](https://github.com/Kincaid7/Azure-SOC)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="NathanKincaid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
