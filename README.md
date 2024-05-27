@@ -5,7 +5,7 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Created a live SOC / Honeynet in Azure!](https://github.com/Kincaid7/Azure-SOC)
 
-- <b>Department of Defense Cyber Sentinal Challenge</b>
+- <b>Department of Defense Cyber Sentinel Challenge</b>
   - [First Capture the Flag event!](https://github.com/Kincaid7/SentinelOne)
 
 <h2> 🤳 Connect with me:</h2>
