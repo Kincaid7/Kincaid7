@@ -8,6 +8,9 @@
 - <b>Department of Defense Cyber Sentinel Challenge</b>
   - [First Capture the Flag event!](https://github.com/Kincaid7/SentinelOne)
 
+- <b>BullsConnect Officer Scraper for The European Society at USF</b>
+  - [Contact Scraper!](https://github.com/Kincaid7/usf-bullsconnect-officer-scraper)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="NathanKincaid | LinkedIn" width="22px" src="https://github.com/Kincaid7/Kincaid7/assets/41767740/3cf71e26-cbbf-4f21-92b9-33ae9aa0d9d7" />][website]
