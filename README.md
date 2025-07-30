@@ -12,7 +12,7 @@
   - [Contact Scraper!](https://github.com/Kincaid7/usf-bullsconnect-officer-scraper)
 
 - <b>AHK Grayscale Toggler</b>
-  - [Contact Scraper!](https://github.com/Kincaid7/AHK-Grayscale-Toggler)
+  - [AHK Grayscale Toggler!](https://github.com/Kincaid7/AHK-Grayscale-Toggler)
 
 <h2> 🤳 Connect with me:</h2>
 
