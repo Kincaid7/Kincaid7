@@ -11,7 +11,7 @@
 - <b>BullsConnect Officer Scraper for The European Society at USF</b>
   - [Contact Scraper!](https://github.com/Kincaid7/usf-bullsconnect-officer-scraper)
 
-- <b>HesychiaHex</b>
+- <b>HesychiaHex - AHK Script to Automatically Trigger PC Grayscale, Muting, and Locking. </b>
   - [HesychiaHex](https://github.com/Kincaid7/AHK-AutoGrayscale)
 
 <h2> 🤳 Connect with me:</h2>
